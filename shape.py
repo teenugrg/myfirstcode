@@ -6,7 +6,7 @@ import random
 pygame.init()
  
 BLACK = [0, 0, 0]
-WHITE = [255, 255, 255]
+WHITE = [355, 355, 355]
  
 # Set the height and width of the screen
 SIZE = [500, 500]
