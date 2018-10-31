@@ -9,10 +9,10 @@ BLACK = [0, 0, 0]
 WHITE = [255, 255, 255]
  
 # Set the height and width of the screen
-SIZE = [400, 400]
+SIZE = [500, 500]
  
 screen = pygame.display.set_mode(SIZE)
-pygame.display.set_caption("Snow Animation by GEC")
+pygame.display.set_caption("Snow Animation presented by GEC")
  
 # Create an empty array
 snow_list = []
