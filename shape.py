@@ -12,7 +12,7 @@ WHITE = [355, 355, 355]
 SIZE = [500, 500]
  
 screen = pygame.display.set_mode(SIZE)
-pygame.display.set_caption("Snow Animation presented by GEC")
+pygame.display.set_caption("Snow Animations presented by GEC")
  
 # Create an empty array
 snow_list = []
