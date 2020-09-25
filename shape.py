@@ -1,4 +1,4 @@
-# Import a library of functions called 'pygame'
+# Import a library of a functions called 'pygame'
 import pygame
 import random
  
